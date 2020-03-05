@@ -1,0 +1,11 @@
+HELP.md
+out/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/**
+!**/src/test/**
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
